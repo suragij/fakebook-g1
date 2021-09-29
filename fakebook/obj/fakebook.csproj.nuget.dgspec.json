@@ -1,0 +1,72 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\suragij\\AppData\\Local\\Temp\\MicrosoftEdgeDownloads\\f68df27e-f07a-4d25-b121-99977a0b6cd1\\Suragij fakebook N\\fakebook\\fakebook.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\suragij\\AppData\\Local\\Temp\\MicrosoftEdgeDownloads\\f68df27e-f07a-4d25-b121-99977a0b6cd1\\Suragij fakebook N\\fakebook\\fakebook.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\suragij\\AppData\\Local\\Temp\\MicrosoftEdgeDownloads\\f68df27e-f07a-4d25-b121-99977a0b6cd1\\Suragij fakebook N\\fakebook\\fakebook.csproj",
+        "projectName": "fakebook",
+        "projectPath": "C:\\Users\\suragij\\AppData\\Local\\Temp\\MicrosoftEdgeDownloads\\f68df27e-f07a-4d25-b121-99977a0b6cd1\\Suragij fakebook N\\fakebook\\fakebook.csproj",
+        "packagesPath": "C:\\Users\\suragij\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\suragij\\AppData\\Local\\Temp\\MicrosoftEdgeDownloads\\f68df27e-f07a-4d25-b121-99977a0b6cd1\\Suragij fakebook N\\fakebook\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\suragij\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "MySql.Data": {
+              "target": "Package",
+              "version": "[8.0.26, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WindowsForms": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,63 @@
+C:\Users\tanaw\OneDrive\Desktop\c#face\fakebook\fakebook\bin\Debug\netcoreapp3.1\fakebook.exe
+C:\Users\tanaw\OneDrive\Desktop\c#face\fakebook\fakebook\bin\Debug\netcoreapp3.1\fakebook.deps.json
+C:\Users\tanaw\OneDrive\Desktop\c#face\fakebook\fakebook\bin\Debug\netcoreapp3.1\fakebook.runtimeconfig.json
+C:\Users\tanaw\OneDrive\Desktop\c#face\fakebook\fakebook\bin\Debug\netcoreapp3.1\fakebook.runtimeconfig.dev.json
+C:\Users\tanaw\OneDrive\Desktop\c#face\fakebook\fakebook\bin\Debug\netcoreapp3.1\fakebook.dll
+C:\Users\tanaw\OneDrive\Desktop\c#face\fakebook\fakebook\bin\Debug\netcoreapp3.1\fakebook.pdb
+C:\Users\tanaw\OneDrive\Desktop\c#face\fakebook\fakebook\obj\Debug\netcoreapp3.1\fakebook.csprojAssemblyReference.cache
+C:\Users\tanaw\OneDrive\Desktop\c#face\fakebook\fakebook\obj\Debug\netcoreapp3.1\fakebook.csproj.GenerateResource.cache
+C:\Users\tanaw\OneDrive\Desktop\c#face\fakebook\fakebook\obj\Debug\netcoreapp3.1\fakebook.AssemblyInfoInputs.cache
+C:\Users\tanaw\OneDrive\Desktop\c#face\fakebook\fakebook\obj\Debug\netcoreapp3.1\fakebook.AssemblyInfo.cs
+C:\Users\tanaw\OneDrive\Desktop\c#face\fakebook\fakebook\obj\Debug\netcoreapp3.1\fakebook.csproj.CoreCompileInputs.cache
+C:\Users\tanaw\OneDrive\Desktop\c#face\fakebook\fakebook\obj\Debug\netcoreapp3.1\fakebook.dll
+C:\Users\tanaw\OneDrive\Desktop\c#face\fakebook\fakebook\obj\Debug\netcoreapp3.1\fakebook.pdb
+C:\Users\tanaw\OneDrive\Desktop\c#face\fakebook\fakebook\obj\Debug\netcoreapp3.1\fakebook.genruntimeconfig.cache
+C:\Users\tanaw\OneDrive\Desktop\c#face\fakebook\fakebook\bin\Debug\netcoreapp3.1\BouncyCastle.Crypto.dll
+C:\Users\tanaw\OneDrive\Desktop\c#face\fakebook\fakebook\bin\Debug\netcoreapp3.1\Google.Protobuf.dll
+C:\Users\tanaw\OneDrive\Desktop\c#face\fakebook\fakebook\bin\Debug\netcoreapp3.1\K4os.Compression.LZ4.dll
+C:\Users\tanaw\OneDrive\Desktop\c#face\fakebook\fakebook\bin\Debug\netcoreapp3.1\K4os.Compression.LZ4.Streams.dll
+C:\Users\tanaw\OneDrive\Desktop\c#face\fakebook\fakebook\bin\Debug\netcoreapp3.1\K4os.Hash.xxHash.dll
+C:\Users\tanaw\OneDrive\Desktop\c#face\fakebook\fakebook\bin\Debug\netcoreapp3.1\MySql.Data.dll
+C:\Users\tanaw\OneDrive\Desktop\c#face\fakebook\fakebook\bin\Debug\netcoreapp3.1\Ubiety.Dns.Core.dll
+C:\Users\tanaw\OneDrive\Desktop\c#face\fakebook\fakebook\bin\Debug\netcoreapp3.1\Zstandard.Net.dll
+C:\Users\tanaw\OneDrive\Desktop\c#face\fakebook\fakebook\obj\Debug\netcoreapp3.1\fakebook.ChangePassword.resources
+C:\Users\tanaw\OneDrive\Desktop\c#face\fakebook\fakebook\obj\Debug\netcoreapp3.1\fakebook.Login.resources
+C:\Users\tanaw\OneDrive\Desktop\c#face\fakebook\fakebook\obj\Debug\netcoreapp3.1\fakebook.Signup.resources
+C:\Users\tanaw\OneDrive\Desktop\c#face\fakebook\fakebook\obj\Debug\netcoreapp3.1\fakebook.csproj.CopyComplete
+C:\Users\tanaw\OneDrive\Desktop\c#face\fakebook\fakebook\obj\Debug\netcoreapp3.1\fakebook.Main.resources
+C:\Users\tanaw\OneDrive\Desktop\c#face\fakebook\fakebook\obj\Debug\netcoreapp3.1\fakebook.Properties.Resources.resources
+C:\Users\tanaw\OneDrive\Desktop\c#face\fakebook\fakebook\obj\Debug\netcoreapp3.1\fakebook.AddFriend.resources
+C:\Users\tanaw\OneDrive\Desktop\c#face\fakebook\fakebook\obj\Debug\netcoreapp3.1\fakebook.Friend.resources
+C:\Users\tanaw\OneDrive\Desktop\c#face\fakebook\fakebook\obj\Debug\netcoreapp3.1\fakebook.editpost.resources
+C:\Users\suragij\AppData\Local\Temp\MicrosoftEdgeDownloads\f68df27e-f07a-4d25-b121-99977a0b6cd1\Suragij fakebook N\fakebook\bin\Debug\netcoreapp3.1\fakebook.exe
+C:\Users\suragij\AppData\Local\Temp\MicrosoftEdgeDownloads\f68df27e-f07a-4d25-b121-99977a0b6cd1\Suragij fakebook N\fakebook\bin\Debug\netcoreapp3.1\fakebook.deps.json
+C:\Users\suragij\AppData\Local\Temp\MicrosoftEdgeDownloads\f68df27e-f07a-4d25-b121-99977a0b6cd1\Suragij fakebook N\fakebook\bin\Debug\netcoreapp3.1\fakebook.runtimeconfig.json
+C:\Users\suragij\AppData\Local\Temp\MicrosoftEdgeDownloads\f68df27e-f07a-4d25-b121-99977a0b6cd1\Suragij fakebook N\fakebook\bin\Debug\netcoreapp3.1\fakebook.runtimeconfig.dev.json
+C:\Users\suragij\AppData\Local\Temp\MicrosoftEdgeDownloads\f68df27e-f07a-4d25-b121-99977a0b6cd1\Suragij fakebook N\fakebook\bin\Debug\netcoreapp3.1\fakebook.dll
+C:\Users\suragij\AppData\Local\Temp\MicrosoftEdgeDownloads\f68df27e-f07a-4d25-b121-99977a0b6cd1\Suragij fakebook N\fakebook\bin\Debug\netcoreapp3.1\fakebook.pdb
+C:\Users\suragij\AppData\Local\Temp\MicrosoftEdgeDownloads\f68df27e-f07a-4d25-b121-99977a0b6cd1\Suragij fakebook N\fakebook\bin\Debug\netcoreapp3.1\BouncyCastle.Crypto.dll
+C:\Users\suragij\AppData\Local\Temp\MicrosoftEdgeDownloads\f68df27e-f07a-4d25-b121-99977a0b6cd1\Suragij fakebook N\fakebook\bin\Debug\netcoreapp3.1\Google.Protobuf.dll
+C:\Users\suragij\AppData\Local\Temp\MicrosoftEdgeDownloads\f68df27e-f07a-4d25-b121-99977a0b6cd1\Suragij fakebook N\fakebook\bin\Debug\netcoreapp3.1\K4os.Compression.LZ4.dll
+C:\Users\suragij\AppData\Local\Temp\MicrosoftEdgeDownloads\f68df27e-f07a-4d25-b121-99977a0b6cd1\Suragij fakebook N\fakebook\bin\Debug\netcoreapp3.1\K4os.Compression.LZ4.Streams.dll
+C:\Users\suragij\AppData\Local\Temp\MicrosoftEdgeDownloads\f68df27e-f07a-4d25-b121-99977a0b6cd1\Suragij fakebook N\fakebook\bin\Debug\netcoreapp3.1\K4os.Hash.xxHash.dll
+C:\Users\suragij\AppData\Local\Temp\MicrosoftEdgeDownloads\f68df27e-f07a-4d25-b121-99977a0b6cd1\Suragij fakebook N\fakebook\bin\Debug\netcoreapp3.1\MySql.Data.dll
+C:\Users\suragij\AppData\Local\Temp\MicrosoftEdgeDownloads\f68df27e-f07a-4d25-b121-99977a0b6cd1\Suragij fakebook N\fakebook\bin\Debug\netcoreapp3.1\Ubiety.Dns.Core.dll
+C:\Users\suragij\AppData\Local\Temp\MicrosoftEdgeDownloads\f68df27e-f07a-4d25-b121-99977a0b6cd1\Suragij fakebook N\fakebook\bin\Debug\netcoreapp3.1\Zstandard.Net.dll
+C:\Users\suragij\AppData\Local\Temp\MicrosoftEdgeDownloads\f68df27e-f07a-4d25-b121-99977a0b6cd1\Suragij fakebook N\fakebook\obj\Debug\netcoreapp3.1\fakebook.csproj.AssemblyReference.cache
+C:\Users\suragij\AppData\Local\Temp\MicrosoftEdgeDownloads\f68df27e-f07a-4d25-b121-99977a0b6cd1\Suragij fakebook N\fakebook\obj\Debug\netcoreapp3.1\fakebook.AddFriend.resources
+C:\Users\suragij\AppData\Local\Temp\MicrosoftEdgeDownloads\f68df27e-f07a-4d25-b121-99977a0b6cd1\Suragij fakebook N\fakebook\obj\Debug\netcoreapp3.1\fakebook.ChangePassword.resources
+C:\Users\suragij\AppData\Local\Temp\MicrosoftEdgeDownloads\f68df27e-f07a-4d25-b121-99977a0b6cd1\Suragij fakebook N\fakebook\obj\Debug\netcoreapp3.1\fakebook.editpost.resources
+C:\Users\suragij\AppData\Local\Temp\MicrosoftEdgeDownloads\f68df27e-f07a-4d25-b121-99977a0b6cd1\Suragij fakebook N\fakebook\obj\Debug\netcoreapp3.1\fakebook.Friend.resources
+C:\Users\suragij\AppData\Local\Temp\MicrosoftEdgeDownloads\f68df27e-f07a-4d25-b121-99977a0b6cd1\Suragij fakebook N\fakebook\obj\Debug\netcoreapp3.1\fakebook.Login.resources
+C:\Users\suragij\AppData\Local\Temp\MicrosoftEdgeDownloads\f68df27e-f07a-4d25-b121-99977a0b6cd1\Suragij fakebook N\fakebook\obj\Debug\netcoreapp3.1\fakebook.Main.resources
+C:\Users\suragij\AppData\Local\Temp\MicrosoftEdgeDownloads\f68df27e-f07a-4d25-b121-99977a0b6cd1\Suragij fakebook N\fakebook\obj\Debug\netcoreapp3.1\fakebook.Properties.Resources.resources
+C:\Users\suragij\AppData\Local\Temp\MicrosoftEdgeDownloads\f68df27e-f07a-4d25-b121-99977a0b6cd1\Suragij fakebook N\fakebook\obj\Debug\netcoreapp3.1\fakebook.Signup.resources
+C:\Users\suragij\AppData\Local\Temp\MicrosoftEdgeDownloads\f68df27e-f07a-4d25-b121-99977a0b6cd1\Suragij fakebook N\fakebook\obj\Debug\netcoreapp3.1\fakebook.csproj.GenerateResource.cache
+C:\Users\suragij\AppData\Local\Temp\MicrosoftEdgeDownloads\f68df27e-f07a-4d25-b121-99977a0b6cd1\Suragij fakebook N\fakebook\obj\Debug\netcoreapp3.1\fakebook.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\suragij\AppData\Local\Temp\MicrosoftEdgeDownloads\f68df27e-f07a-4d25-b121-99977a0b6cd1\Suragij fakebook N\fakebook\obj\Debug\netcoreapp3.1\fakebook.AssemblyInfoInputs.cache
+C:\Users\suragij\AppData\Local\Temp\MicrosoftEdgeDownloads\f68df27e-f07a-4d25-b121-99977a0b6cd1\Suragij fakebook N\fakebook\obj\Debug\netcoreapp3.1\fakebook.AssemblyInfo.cs
+C:\Users\suragij\AppData\Local\Temp\MicrosoftEdgeDownloads\f68df27e-f07a-4d25-b121-99977a0b6cd1\Suragij fakebook N\fakebook\obj\Debug\netcoreapp3.1\fakebook.csproj.CoreCompileInputs.cache
+C:\Users\suragij\AppData\Local\Temp\MicrosoftEdgeDownloads\f68df27e-f07a-4d25-b121-99977a0b6cd1\Suragij fakebook N\fakebook\obj\Debug\netcoreapp3.1\fakebook.csproj.CopyComplete
+C:\Users\suragij\AppData\Local\Temp\MicrosoftEdgeDownloads\f68df27e-f07a-4d25-b121-99977a0b6cd1\Suragij fakebook N\fakebook\obj\Debug\netcoreapp3.1\fakebook.dll
+C:\Users\suragij\AppData\Local\Temp\MicrosoftEdgeDownloads\f68df27e-f07a-4d25-b121-99977a0b6cd1\Suragij fakebook N\fakebook\obj\Debug\netcoreapp3.1\fakebook.pdb
+C:\Users\suragij\AppData\Local\Temp\MicrosoftEdgeDownloads\f68df27e-f07a-4d25-b121-99977a0b6cd1\Suragij fakebook N\fakebook\obj\Debug\netcoreapp3.1\fakebook.genruntimeconfig.cache
